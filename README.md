@@ -1,22 +1,19 @@
-# golang-prework
-submission for Golang class
-
 # CoderSchool Golang Course Prework Submission Template
 
-1. **Submitted by: Nguyn  Van Thanh
-2. **Time spent: ETA
+1. Submitted by: Thanh Nguyen
+2. Time spent: 3h
 
 ## Set of User Stories
 
 ### Required
-* [] Command-line argument parsing
-* [ ] Input params
-   * [ ] Requests - Number of requests to perform
-   * [ ] Concurrency - Number of multiple requests to make at a time
-   * [ ] URL - The URL for testing.
-* [ ] Prints use information if wrong arguments provided
-* [ ] Implements  HTTP load and summarize it
-* [ ] Concurrency must be implemented with goroutine.
+* [x] Command-line argument parsing
+* [x] Input params
+   * [x] Requests - Number of requests to perform
+   * [x] Concurrency - Number of multiple requests to make at a time
+   * [x] URL - The URL for testing.
+* [x] Prints use information if wrong arguments provided
+* [x] Implements  HTTP load and summarize it
+* [x] Concurrency must be implemented with goroutine.
 
 
 ### Bonus
